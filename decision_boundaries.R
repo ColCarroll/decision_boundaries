@@ -2,7 +2,6 @@ require(ggplot2)
 require(rpart)
 require(randomForest)
 require(RWeka)
-require(nnet)
 require(klaR)
 
 dir.create('test', showWarnings=F)
